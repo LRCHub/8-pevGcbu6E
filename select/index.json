@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビトゥイーン・エンジェルズ・アンド・インセクツ",
+  "base_artist": "Papa Roach",
+  "createdAt": "2026-02-18T14:56:21.875922Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Between Angels and Insects",
+      "artist": "Papa Roach",
+      "has_synced": false,
+      "path": "select/pl_01_Between_Angels_and_Insects_Papa_Roach.txt"
+    }
+  ]
+}
